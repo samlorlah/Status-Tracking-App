@@ -30,8 +30,6 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Status Tracking App <a name="about-project"></a>
-![blog-gif](https://media3.giphy.com/media/svdsMNSzOShzO/giphy.gif)
-
 **Status Tracking App** is an app with Client and Admin interfaces for application of programme. User has a set of status while admin has another set of status for the same application.
 
 ## 🛠 Built With <a name="built-with"></a>
